@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80e916c9-bee1-49fa-a010-18854b0ba201" name="Default Changelist" comment="" />
+    <list default="true" id="f065f34e-e750-4c0b-82f8-8dd8eb86c2f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindMinValueArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-1/TienLai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-1/TienLai/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TienLai.java">
+        <entry file="file://$PROJECT_DIR$/src/FindMinValueArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="44">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -39,11 +43,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/TienLai.java" />
+        <option value="$PROJECT_DIR$/src/FindMinValueArray.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -55,19 +59,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="TienLai" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TienLai" type="462c0819:PsiDirectoryNode" />
+              <item name="FindMinValueArray" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FindMinValueArray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -91,16 +95,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="TienLai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TienLai" />
-      <module name="TienLai" />
+    <configuration name="FindMinValueArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMinValueArray" />
+      <module name="FindMinValueArray" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TienLai" />
+        <item itemvalue="Application.FindMinValueArray" />
       </list>
     </recent_temporary>
   </component>
@@ -109,20 +113,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="80e916c9-bee1-49fa-a010-18854b0ba201" name="Default Changelist" comment="" />
-      <created>1559697470208</created>
+      <changelist id="f065f34e-e750-4c0b-82f8-8dd8eb86c2f8" name="Default Changelist" comment="" />
+      <created>1559698956114</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559697470208</updated>
-      <workItem from="1559697472349" duration="1475000" />
+      <updated>1559698956114</updated>
+      <workItem from="1559698957704" duration="390000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1475000" />
+    <option name="totallyTimeSpent" value="390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -140,7 +145,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -161,10 +166,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TienLai.java">
+    <entry file="file://$PROJECT_DIR$/src/FindMinValueArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="44">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
