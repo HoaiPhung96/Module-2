@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bebe7276-0a4d-4e72-af54-fbf6cd4b393e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddElementArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FindMaxTwoArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FindMaxTwoArray/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bebe7276-0a4d-4e72-af54-fbf6cd4b393e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +78,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="OverrideImplement.combined" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -127,16 +125,15 @@
       <option name="presentableId" value="Default" />
       <updated>1559707567533</updated>
       <workItem from="1559707568958" duration="937000" />
-      <workItem from="1559718187543" duration="3315000" />
+      <workItem from="1559718187543" duration="4095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4252000" />
+    <option name="totallyTimeSpent" value="5032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1260" height="650" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2534413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

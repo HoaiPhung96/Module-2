@@ -1,3 +1,11 @@
+/*********************************************
+ **   Version: V.1.0.0                      **
+ **   Author:Pham Van Hoai Phung            **
+ **   e-mail: hoaiphungcntt@gmail.com       **
+ **   github: github.com/HoaiPhung96        **
+ **   facebook: facebook.com/HoaiPhung1996  **
+ **   Copyright (c) 040619 PVHP-CodeGym     **
+ *********************************************/
 import java.util.Scanner;
 
 public class BMI {
