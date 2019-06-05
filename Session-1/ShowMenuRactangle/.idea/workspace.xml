@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62061256-e18d-45e3-a831-8e3cd2a113ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Session-2/ConverTemperature/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session-2/ConverTemperature/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session-2/ConverTemperature/src/ConverTemperature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session-2/FindMaxArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session-2/FindMaxArray/src/FindMaxArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session-2/FindValueArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session-2/FindValueArray/src/FindValueArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverMoney/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverMoney/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignMenu/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session-2/FindMaxTwoArray/src/FindMaxTwoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignMenu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignMenu/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignMenu/out/production/DesignMenu/DesignMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignMenu/out/production/DesignMenu/DesignMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignMenu/src/DesignMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignMenu/src/DesignMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RectangleProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RectangleProgram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShowMenuRactangle/ShowMenuRactangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShowMenuRactangle/ShowMenuRactangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShowMenuRactangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShowMenuRactangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-2/FindMinValueArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-2/FindMinValueArray/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +24,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ShowMenuRactangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,7 +65,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,10 +72,16 @@
               <item name="ShowMenuRactangle" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShowMenuRactangle" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ShowMenuRactangle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShowMenuRactangle" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -73,6 +90,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Session-2/FindMaxTwoArray" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -115,26 +133,29 @@
       <workItem from="1559572215964" duration="4489000" />
       <workItem from="1559610386038" duration="313000" />
       <workItem from="1559621042756" duration="56000" />
+      <workItem from="1559702429859" duration="378000" />
+      <workItem from="1559703128683" duration="102000" />
+      <workItem from="1559703778383" duration="1132000" />
+      <workItem from="1559705590259" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4858000" />
+    <option name="totallyTimeSpent" value="6496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2574899" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27125505" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3916084" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48351648" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -145,7 +166,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32867134" />
-      <window_info anchor="right" id="Codota" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -155,6 +176,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Codota" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,8 +185,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ShowMenuRactangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        <state relative-caret-position="441">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
         </state>
       </provider>
     </entry>
