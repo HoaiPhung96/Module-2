@@ -15,7 +15,7 @@ public class ShowMenuRactangle {
         do {
             System.out.println("   ---Menu---   ");
             System.out.println("1.Print the rectangle");
-            System.out.println("2.Print the square triangle");
+            System.out.println("2.Print the square heart");
             System.out.println("3.Print isosceles triangle");
             System.out.println("Exit.");
             System.out.print("Nhập lựa chọn của bạn: ");
@@ -35,7 +35,7 @@ public class ShowMenuRactangle {
                     }
                     break;
                 case 2:
-                    System.out.println("Draw the triangle");
+                    System.out.println("Draw the heart");
                     System.out.println("  *** ***");
                     System.out.println(" *********");
                     System.out.println("  *******");
