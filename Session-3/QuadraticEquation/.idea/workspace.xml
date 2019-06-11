@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41732b54-ff0f-4b4a-a588-c2a0bc9e03c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameMineSweeper/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GameMineSweeper/src/GameMineSweeper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LopHCN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LopHCN/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuadraticEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/ObjectGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/ObjectGeometric/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/TestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/TestPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MainTestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MainTestPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MovablePoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/QuadraticEquation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="45" column="33" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="33" />
+            <state relative-caret-position="247">
+              <caret line="49" column="5" lean-forward="true" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -69,7 +71,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,7 +88,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,7 +96,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LopHCN" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -140,16 +142,17 @@
       <workItem from="1559870871044" duration="737000" />
       <workItem from="1559973425328" duration="1558000" />
       <workItem from="1560072919260" duration="612000" />
+      <workItem from="1560215657282" duration="308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2907000" />
+    <option name="totallyTimeSpent" value="3215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -189,8 +192,8 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/QuadraticEquation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="33" />
+        <state relative-caret-position="247">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="33" />
         </state>
       </provider>
     </entry>

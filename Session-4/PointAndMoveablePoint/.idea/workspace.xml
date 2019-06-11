@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c26611de-38c4-4081-99e9-6b3c78421431" name="Default Changelist" comment="">
+    <list default="true" id="d5880f8e-b756-415a-9f95-b692ba2f7b2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Point2DPoint3D/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point2DPoint3D/src/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point2DPoint3D/src/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Point2DPoint3D/src/TestPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainTestPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-3/GameMineSweeper/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-3/GameMineSweeper/src/GameMineSweeper.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/ObjectGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/ObjectGeometric/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/TestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/TestPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MainTestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MainTestPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MovablePoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interfaceComparableSoSanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaceComparableSoSanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/src/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/src/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectGeometric/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,36 +30,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CircleComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/CircleComparatorTest.java">
+        <entry file="file://$PROJECT_DIR$/src/MovablePoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-263">
-              <caret selection-end-line="7" selection-end-column="47" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MainTestPoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -70,22 +66,20 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PointAndMove</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CircleComparatorTest.java" />
-        <option value="$PROJECT_DIR$/src/Circle.java" />
-        <option value="$PROJECT_DIR$/src/CircleComparator.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/MovablePoint.java" />
+        <option value="$PROJECT_DIR$/src/Point.java" />
+        <option value="$PROJECT_DIR$/src/MainTestPoint.java" />
       </list>
     </option>
   </component>
@@ -101,31 +95,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="interfaceComparatorShape" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interfaceComparatorShape" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interfaceComparatorShape" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interfaceComparatorShape" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="PointAndMoveablePoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PointAndMoveablePoint" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Session-4/ObjectGeometric" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -141,17 +130,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="CircleComparatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CircleComparatorTest" />
-      <module name="interfaceComparatorShape" />
+  <component name="RunManager" selected="Application.MainTestPoint (1)">
+    <configuration name="MainTestPoint (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="point.Moveable.MainTestPoint" />
+      <module name="PointAndMoveablePoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="point.Moveable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTestPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pointMoveable.MainTestPoint" />
+      <module name="PointAndMoveablePoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pointMoveable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CircleComparatorTest" />
+        <item itemvalue="Application.MainTestPoint (1)" />
+        <item itemvalue="Application.MainTestPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -160,18 +169,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c26611de-38c4-4081-99e9-6b3c78421431" name="Default Changelist" comment="" />
-      <created>1560091298530</created>
+      <changelist id="d5880f8e-b756-415a-9f95-b692ba2f7b2b" name="Default Changelist" comment="" />
+      <created>1560074958199</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560091298530</updated>
-      <workItem from="1560091299865" duration="1129000" />
-      <workItem from="1560215999354" duration="67000" />
+      <updated>1560074958199</updated>
+      <workItem from="1560074959400" duration="1172000" />
+      <workItem from="1560088926033" duration="350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1196000" />
+    <option name="totallyTimeSpent" value="1522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
@@ -213,31 +222,44 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CircleComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/MovablePoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CircleComparatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/MainTestPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-263">
-          <caret selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="52" />
         </state>
       </provider>
     </entry>
