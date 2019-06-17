@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd72c83c-572f-4471-a1e9-ff2c441db252" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ResizeableGeometric/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ResizeableGeometric/src/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-3/LopHCN/out/production/LopHCN/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/LopHCN/out/production/LopHCN/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session-4/ObjectGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/ObjectGeometric/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/TestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/TestPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MainTestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MainTestPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MovablePoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResizeableGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ResizeableGeometric/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../interfaceComparableSoSanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaceComparableSoSanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../interfaceComparatorShape/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaceComparatorShape/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/CleanCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/CleanCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/CleanCode/java-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/CleanCode/java-cleancode-refactoring-renaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/Refactoring/java-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/Refactoring/java-cleancode-refactoring-variable-extraction" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,10 +48,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AbstractAndInterfaceTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="-175">
               <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -73,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fruit/Fruit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
@@ -180,7 +180,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ResizeableGeometric" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -225,16 +225,18 @@
       <updated>1560089279606</updated>
       <workItem from="1560089281873" duration="2002000" />
       <workItem from="1560216646756" duration="737000" />
+      <workItem from="1560394623830" duration="11000" />
+      <workItem from="1560395465219" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2739000" />
+    <option name="totallyTimeSpent" value="2762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -271,6 +273,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/animal/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/animal/Chicken.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -289,6 +298,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/fruit/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/animal/Tiger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -297,6 +313,13 @@
             <element signature="e#97#98#0" expanded="true" />
             <element signature="e#138#139#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edible/Edible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -313,32 +336,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AbstractAndInterfaceTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="-175">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/edible/Edible.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/animal/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fruit/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>

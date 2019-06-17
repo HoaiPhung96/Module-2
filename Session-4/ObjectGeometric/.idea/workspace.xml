@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52032600-8b9e-4206-93a7-b355774236d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-3/LopHCN/out/production/LopHCN/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/LopHCN/out/production/LopHCN/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CircleAndCylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CircleAndCylinder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point2DPoint3D/src/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Point2DPoint3D/src/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point2DPoint3D/src/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Point2DPoint3D/src/Point3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point2DPoint3D/src/TestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Point2DPoint3D/src/TestPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PointAndMoveablePoint/src/MainTestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PointAndMoveablePoint/src/MainTestPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PointAndMoveablePoint/src/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PointAndMoveablePoint/src/MovablePoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PointAndMoveablePoint/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PointAndMoveablePoint/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point2DPoint3D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Point2DPoint3D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PointAndMoveablePoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PointAndMoveablePoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/ClassAnimalAndInterfaceEdible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/ClassAnimalAndInterfaceEdible/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/ResizeableGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/ResizeableGeometric/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session-5/interfaceComparatorShape/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/interfaceComparatorShape/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/CleanCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/CleanCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/CleanCode/java-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/CleanCode/java-cleancode-refactoring-renaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/Refactoring/java-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/Refactoring/java-cleancode-refactoring-variable-extraction" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CircleTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -91,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SquareTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
@@ -144,7 +147,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CircleAndCylinder" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -186,11 +189,14 @@
       <updated>1560073534588</updated>
       <workItem from="1560073537245" duration="1065000" />
       <workItem from="1560216068228" duration="146000" />
+      <workItem from="1560394678455" duration="6000" />
+      <workItem from="1560395454180" duration="10000" />
+      <workItem from="1560395526845" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1211000" />
+    <option name="totallyTimeSpent" value="1232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
@@ -239,7 +245,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CircleTest.java">
+    <entry file="file://$PROJECT_DIR$/src/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
@@ -247,13 +253,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ShapeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
@@ -285,6 +284,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>

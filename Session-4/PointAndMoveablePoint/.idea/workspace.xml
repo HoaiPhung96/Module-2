@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5880f8e-b756-415a-9f95-b692ba2f7b2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Point2DPoint3D/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Point2DPoint3D/src/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Point2DPoint3D/src/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Point2DPoint3D/src/TestPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainTestPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-3/GameMineSweeper/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-3/GameMineSweeper/src/GameMineSweeper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/src/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/src/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CircleAndCylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CircleAndCylinder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ObjectGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ObjectGeometric/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/ClassAnimalAndInterfaceEdible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/ClassAnimalAndInterfaceEdible/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/ResizeableGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/ResizeableGeometric/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/interfaceComparatorShape/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/interfaceComparatorShape/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/CleanCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/CleanCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/CleanCode/java-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/CleanCode/java-cleancode-refactoring-renaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/Refactoring/java-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/Refactoring/java-cleancode-refactoring-variable-extraction" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MovablePoint.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -48,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MainTestPoint.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
@@ -95,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,7 +102,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,6 +109,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Session-3/LopHCN" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -176,16 +171,17 @@
       <updated>1560074958199</updated>
       <workItem from="1560074959400" duration="1172000" />
       <workItem from="1560088926033" duration="350000" />
+      <workItem from="1560394685262" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1522000" />
+    <option name="totallyTimeSpent" value="1550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -222,37 +218,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MovablePoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-          <folding>
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" selection-start-column="14" selection-end-column="14" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MovablePoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>

@@ -2,16 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62061256-e18d-45e3-a831-8e3cd2a113ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DesignMenu/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Session-2/FindMaxTwoArray/src/FindMaxTwoArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignMenu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignMenu/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignMenu/out/production/DesignMenu/DesignMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignMenu/out/production/DesignMenu/DesignMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignMenu/src/DesignMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignMenu/src/DesignMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RectangleProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RectangleProgram/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ShowMenuRactangle/ShowMenuRactangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShowMenuRactangle/ShowMenuRactangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShowMenuRactangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShowMenuRactangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-2/FindMinValueArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-2/FindMinValueArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShowMenuRactangle/ShowMenuRactangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShowMenuRactangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShowMenuRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-3/LopHCN/out/production/LopHCN/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/LopHCN/out/production/LopHCN/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/src/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/src/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/ObjectGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/ObjectGeometric/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/ClassAnimalAndInterfaceEdible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/ClassAnimalAndInterfaceEdible/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/ResizeableGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/ResizeableGeometric/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/interfaceComparableSoSanh/out/production/interfaceComparableSoSanh/ComparableCircleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-5/interfaceComparatorShape/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-5/interfaceComparatorShape/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/CleanCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/CleanCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/CleanCode/java-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/CleanCode/java-cleancode-refactoring-renaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/Refactoring/java-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/Refactoring/java-cleancode-refactoring-variable-extraction" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,10 +37,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ShowMenuRactangle.java">
+        <entry file="file://$PROJECT_DIR$/src/ShowMenuRectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+            <state relative-caret-position="309">
+              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,6 +64,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/ShowMenuRactangle.java" />
+        <option value="$PROJECT_DIR$/src/ShowMenuRectangle.java" />
       </list>
     </option>
   </component>
@@ -64,35 +79,21 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ShowMenuRactangle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShowMenuRactangle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShowMenuRactangle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShowMenuRactangle" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Session-2/FindMaxTwoArray" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -107,8 +108,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ShowMenuRactangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ShowMenuRactangle" />
+    <configuration name="ShowMenuRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShowMenuRectangle" />
       <module name="ShowMenuRactangle" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,7 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShowMenuRactangle" />
+        <item itemvalue="Application.ShowMenuRectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -137,16 +138,19 @@
       <workItem from="1559703128683" duration="102000" />
       <workItem from="1559703778383" duration="1132000" />
       <workItem from="1559705590259" duration="26000" />
+      <workItem from="1560396447159" duration="2567000" />
+      <workItem from="1560523456314" duration="596000" />
+      <workItem from="1560525145314" duration="162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6496000" />
+    <option name="totallyTimeSpent" value="9821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27125505" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27611336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -183,10 +187,13 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ShowMenuRactangle.java">
+    <entry file="file://$PROJECT_DIR$/src/ShowMenuRectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        <state relative-caret-position="309">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

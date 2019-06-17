@@ -2,19 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8bfa28b-b337-4b99-9cfa-0e373f575063" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-2/DemKyTuChuoi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-3/GameMineSweeper/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-3/GameMineSweeper/src/GameMineSweeper.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/LopHCN/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/src/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/QuadraticEquation/src/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-3/LopHCN/out/production/LopHCN/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-3/LopHCN/out/production/LopHCN/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/CircleAndCylinder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Session-4/ObjectGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/ObjectGeometric/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/Point3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/TestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/Point2DPoint3D/src/TestPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MainTestPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MainTestPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/MovablePoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-4/PointAndMoveablePoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ClassAnimalAndInterfaceEdible/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassAnimalAndInterfaceEdible/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ResizeableGeometric/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ResizeableGeometric/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interfaceComparableSoSanh/ComparableCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interfaceComparableSoSanh/ComparableCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/interfaceComparableSoSanh/ComparableCircleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/interfaceComparableSoSanh/ComparableCircleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interfaceComparatorShape/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaceComparatorShape/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/CleanCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/CleanCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/CleanCode/java-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/CleanCode/java-cleancode-refactoring-renaming" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Session-7/Refactoring/java-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/../../Session-7/Refactoring/java-cleancode-refactoring-variable-extraction" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,12 +25,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ComparableCircle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
@@ -41,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ComparableCircleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="374">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="39" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -50,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="880">
+              <caret line="40" column="36" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="36" />
               <folding>
                 <element signature="e#495#496#0" expanded="true" />
                 <element signature="e#531#532#0" expanded="true" />
@@ -112,27 +112,13 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="interfaceComparableSoSanh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interfaceComparableSoSanh" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Session-3/QuadraticEquation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Session-4/Point2DPoint3D" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -175,16 +161,18 @@
       <workItem from="1560092437853" duration="687000" />
       <workItem from="1560151086633" duration="598000" />
       <workItem from="1560215574862" duration="78000" />
+      <workItem from="1560394744081" duration="642000" />
+      <workItem from="1560395494510" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1363000" />
+    <option name="totallyTimeSpent" value="2020000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26153848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -221,27 +209,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ComparableCircle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ComparableCircleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="880">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="36" />
           <folding>
             <element signature="e#495#496#0" expanded="true" />
             <element signature="e#531#532#0" expanded="true" />
@@ -256,6 +227,23 @@
             <element signature="e#890#891#0" expanded="true" />
             <element signature="e#933#934#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComparableCircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ComparableCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>
